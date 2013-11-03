@@ -17,6 +17,12 @@ Call the switched plug-in
     network: 'network json'
     });
 
+
+Version 1.0 Requirements    
+You need to include the following DIV for this plug-in to work (planned to be removed in next release).
+
+     <div id="portInfo"></div>
+
 Configuration
 -------------
 
