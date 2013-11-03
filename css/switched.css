@@ -1,0 +1,43 @@
+.nw0101networks {
+	background-color: #e8e8e8;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.nw0101portNames td {
+	font-size: 11px;
+	text-align: center;
+	font-weight: bold;
+}
+.nw0101ports td {
+	background-color: #000;
+	padding: 3px;
+}
+.nw0101ports td.nw0101blank {
+	background-color: #e8e8e8;
+	padding: 3px;
+}
+.nw0101ports td.nw0101on a {
+	background-color: #00B233;
+	width: 30px;
+	height: 30px;
+	display: block;
+	content: "";
+	color: #00B233;
+}
+.nw0101ports td.nw0101off a {
+	background-color: #585446;
+	width: 30px;
+	height: 30px;
+	display: block;
+	content: "";
+	color: #585446;
+}
+.nw0101ports td.nw0101fail a {
+	background-color: #d2322d;
+	width: 30px;
+	height: 30px;
+	display: block;
+	content: "";
+	color: #d2322d;
+}
